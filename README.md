@@ -31,9 +31,9 @@ The main objectives of this project are:
 
 ## Members:
 
-* Mehmet Umut Öksüz
-* Mehdi Saffar
-* Adil Numan Çelik
+* [Mehmet Umut Öksüz](https://github.com/umutoksuz)
+* [Mehdi Saffar](https://github.com/MehdiSaffar)
+* [Adil Numan Çelik](https://github.com/adilnumancelik)
 
 ### Advisors:
 
